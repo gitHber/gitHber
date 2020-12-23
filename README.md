@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="KingOfComedy" src="https://github.com/gitHber/gitHber/blob/main/KingOfComedy.gif?raw=true" width="100%">
+
