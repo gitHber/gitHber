@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 
 <img alt="KingOfComedy" src="https://github.com/gitHber/gitHber/blob/main/KingOfComedy.gif?raw=true" width="100%">
 
+![my github stats](https://github-readme-stats.vercel.app/api?username=gitHber&show_icons=true&hide_border=true)
+
